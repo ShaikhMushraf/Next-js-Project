@@ -2,8 +2,8 @@ import React from 'react'
 
 function HomePage() {
   return (
-    <div className='bg-red-300'>HomePage</div>
+    <div className='text-red-700'>HomePage</div>
   )
 }
 
-export default HomePage
+export default HomePage;
